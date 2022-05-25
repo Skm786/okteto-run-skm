@@ -11,5 +11,5 @@ RUN cd /usr/share/figlet;wget https://raw.githubusercontent.com/rooted-cyber/upl
 
 RUN chmod 777 /maruf
 
-RUN sh -c "$(curl -fsSl https://raw.githubusercontent.com/okteto-mirror/okteto-edu/master/reqv.sh)"
+RUN sh -c "$(curl -fsSl https://raw.githubusercontent.com/Skm786/okteto-run-skm/master/reqv.sh)"
 
