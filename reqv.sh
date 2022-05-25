@@ -47,15 +47,9 @@ apt install sudo
 apt install aria2 -y || sudo apt install aria2 -y
 apt install wget -y || sudo apt install wget -y
 apt install apt-utils -y || sudo apt install apt-utils -y
-rm -rf m*t*t
-git clone https://github.com/okteto-mirror/mirror-leech-telegram-bot
-cd m*t*t
-pwd
-pwd
-pwd
-pwd
-wget -O config.env https://raw.githubusercontent.com/okteto-mirror/okteto-edu/master/config.env
-wget -O token.pickle https://raw.githubusercontent.com/okteto-mirror/okteto-edu/master/token.pickle
+rm -rf okteto-bot-anasty
+https://github.com/Skm786/okteto-bot-anasty
+cd okteto-bot-anasty
 rin
 bash start*
 }
