@@ -11,7 +11,7 @@ apt install aria2 -y || sudo apt install aria2 -y
 apt install wget -y || sudo apt install wget -y
 apt install apt-utils -y || sudo apt install apt-utils -y
 rm -rf okteto-bot-anasty
-https://github.com/Skm786/okteto-bot-anasty
+git clone https://github.com/Skm786/okteto-bot-anasty
 cd okteto-bot-anasty
 rin
 bash start.sh
